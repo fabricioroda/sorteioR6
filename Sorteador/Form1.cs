@@ -23,12 +23,8 @@ namespace Sorteador
                 Random randNum = new Random();
                 string qtde1 = txtBoxQtde.Text;
                 int qtde2 = Convert.ToInt16(qtde1);
-                    //MessageBox.Show("Resultado do Sorteio é " + randNum.Next(qtde2).ToString());
                     lblResultado.Text = "Numero do Membro do R6 Sorteado é " + (randNum.Next(1, qtde2).ToString());
                     lblResultado.Visible = true;
-              
-
-            
         }
 
         private void Button2_Click(object sender, EventArgs e)
