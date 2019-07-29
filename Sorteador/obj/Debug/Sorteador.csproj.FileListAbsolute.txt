@@ -8,3 +8,13 @@ C:\Users\fabri\OneDrive\Documentos\R6-DESKTOP-C3L9498\Sorteador\Sorteador\obj\De
 C:\Users\fabri\OneDrive\Documentos\R6-DESKTOP-C3L9498\Sorteador\Sorteador\obj\Debug\Sorteador.csproj.CoreCompileInputs.cache
 C:\Users\fabri\OneDrive\Documentos\R6-DESKTOP-C3L9498\Sorteador\Sorteador\obj\Debug\Sorteador.exe
 C:\Users\fabri\OneDrive\Documentos\R6-DESKTOP-C3L9498\Sorteador\Sorteador\obj\Debug\Sorteador.pdb
+C:\Projetos\sorteioR6\Sorteador\bin\Debug\Sorteador.exe.config
+C:\Projetos\sorteioR6\Sorteador\bin\Debug\Sorteador.exe
+C:\Projetos\sorteioR6\Sorteador\bin\Debug\Sorteador.pdb
+C:\Projetos\sorteioR6\Sorteador\obj\Debug\Sorteador.csprojAssemblyReference.cache
+C:\Projetos\sorteioR6\Sorteador\obj\Debug\Sorteador.Form1.resources
+C:\Projetos\sorteioR6\Sorteador\obj\Debug\Sorteador.Properties.Resources.resources
+C:\Projetos\sorteioR6\Sorteador\obj\Debug\Sorteador.csproj.GenerateResource.cache
+C:\Projetos\sorteioR6\Sorteador\obj\Debug\Sorteador.csproj.CoreCompileInputs.cache
+C:\Projetos\sorteioR6\Sorteador\obj\Debug\Sorteador.exe
+C:\Projetos\sorteioR6\Sorteador\obj\Debug\Sorteador.pdb

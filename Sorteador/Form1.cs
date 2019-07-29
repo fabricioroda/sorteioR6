@@ -30,5 +30,11 @@ namespace Sorteador
 
             
         }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            lblResultado.Visible = false;
+            lblResultado.Text = "";
+        }
     }
 }
