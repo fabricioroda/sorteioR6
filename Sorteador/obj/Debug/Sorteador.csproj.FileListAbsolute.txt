@@ -18,3 +18,13 @@ C:\Projetos\sorteioR6\Sorteador\obj\Debug\Sorteador.csproj.GenerateResource.cach
 C:\Projetos\sorteioR6\Sorteador\obj\Debug\Sorteador.csproj.CoreCompileInputs.cache
 C:\Projetos\sorteioR6\Sorteador\obj\Debug\Sorteador.exe
 C:\Projetos\sorteioR6\Sorteador\obj\Debug\Sorteador.pdb
+D:\Projetos\sorteioR6\Sorteador\bin\Debug\Sorteador.exe.config
+D:\Projetos\sorteioR6\Sorteador\bin\Debug\Sorteador.exe
+D:\Projetos\sorteioR6\Sorteador\bin\Debug\Sorteador.pdb
+D:\Projetos\sorteioR6\Sorteador\obj\Debug\Sorteador.csprojAssemblyReference.cache
+D:\Projetos\sorteioR6\Sorteador\obj\Debug\Sorteador.Form1.resources
+D:\Projetos\sorteioR6\Sorteador\obj\Debug\Sorteador.Properties.Resources.resources
+D:\Projetos\sorteioR6\Sorteador\obj\Debug\Sorteador.csproj.GenerateResource.cache
+D:\Projetos\sorteioR6\Sorteador\obj\Debug\Sorteador.csproj.CoreCompileInputs.cache
+D:\Projetos\sorteioR6\Sorteador\obj\Debug\Sorteador.exe
+D:\Projetos\sorteioR6\Sorteador\obj\Debug\Sorteador.pdb

@@ -19,18 +19,19 @@ namespace Sorteador
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            
-                Random randNum = new Random();
+            Random randNum = new Random();
                 string qtde1 = txtBoxQtde.Text;
-                int qtde2 = Convert.ToInt16(qtde1);
+            int qtde2 = Convert.ToInt16(qtde1);
+            txtBoxQtde.Enabled = false;
+            button1.Enabled = false;
                     lblResultado.Text = "Numero do Membro do R6 Sorteado é " + (randNum.Next(1, qtde2).ToString());
                     lblResultado.Visible = true;
         }
-
         private void Button2_Click(object sender, EventArgs e)
         {
             lblResultado.Visible = false;
             lblResultado.Text = "";
+            button1.Enabled = true;
         }
     }
 }
