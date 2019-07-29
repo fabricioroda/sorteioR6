@@ -1,0 +1,10 @@
+C:\Users\fabri\OneDrive\Documentos\R6-DESKTOP-C3L9498\Sorteador\Sorteador\bin\Debug\Sorteador.exe.config
+C:\Users\fabri\OneDrive\Documentos\R6-DESKTOP-C3L9498\Sorteador\Sorteador\bin\Debug\Sorteador.exe
+C:\Users\fabri\OneDrive\Documentos\R6-DESKTOP-C3L9498\Sorteador\Sorteador\bin\Debug\Sorteador.pdb
+C:\Users\fabri\OneDrive\Documentos\R6-DESKTOP-C3L9498\Sorteador\Sorteador\obj\Debug\Sorteador.csprojAssemblyReference.cache
+C:\Users\fabri\OneDrive\Documentos\R6-DESKTOP-C3L9498\Sorteador\Sorteador\obj\Debug\Sorteador.Form1.resources
+C:\Users\fabri\OneDrive\Documentos\R6-DESKTOP-C3L9498\Sorteador\Sorteador\obj\Debug\Sorteador.Properties.Resources.resources
+C:\Users\fabri\OneDrive\Documentos\R6-DESKTOP-C3L9498\Sorteador\Sorteador\obj\Debug\Sorteador.csproj.GenerateResource.cache
+C:\Users\fabri\OneDrive\Documentos\R6-DESKTOP-C3L9498\Sorteador\Sorteador\obj\Debug\Sorteador.csproj.CoreCompileInputs.cache
+C:\Users\fabri\OneDrive\Documentos\R6-DESKTOP-C3L9498\Sorteador\Sorteador\obj\Debug\Sorteador.exe
+C:\Users\fabri\OneDrive\Documentos\R6-DESKTOP-C3L9498\Sorteador\Sorteador\obj\Debug\Sorteador.pdb
